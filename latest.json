@@ -1,7 +1,7 @@
 {
   "note": "Current Dictation Fast test build per platform; the app shows 'New version' when its own build differs.",
   "windows": {
-    "commit": "14bab3f057acd4535c48a3e7c1f737719e765757",
+    "commit": "103f08eb6fa78949a45a7655bf82527357101e0b",
     "url": "https://drive.google.com/drive/folders/1sBeBYt30QW89eEc5uwb2yWYdHKnIZij5"
   },
   "mac": {
